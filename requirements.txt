@@ -1,2 +1,2 @@
 streamlit
-sklearn
+scikit-learn
